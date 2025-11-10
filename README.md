@@ -3,6 +3,8 @@
 A simple, interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 It includes a countdown timer, automatic computer move, and confetti celebration for wins.
 
+[Click here to play](https://surabhi-asthana.github.io/Rock-Paper-Scissors/)
+
 # Features
 
 ⏱️ Countdown Timer: Player has 3 seconds to make a move.
